@@ -1,7 +1,6 @@
 # weather_app
 
-A new Flutter project.
-
+A mobile application Provide weather details based on location using open Weather Api
 ## Getting Started
 
 This project is a starting point for a Flutter application.
